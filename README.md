@@ -1,8 +1,6 @@
 # Freight Rate Prediction
 
-Predicts the price of a truck load from its route, trailer type, weight and date.
-
-On held-out months (learn Jan–Aug, test Sep–Oct) the model's average error is **$99 per load (4.4%)**, against $229 (10.5%) for a simple baseline. The full write-up is in [report.pdf](report.pdf).
+Predicts the price of a truck load from its route, trailer type, weight and date. The full write-up is in [report.pdf](report.pdf).
 
 ## Setup
 
